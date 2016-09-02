@@ -1,0 +1,43 @@
+/*Element*/
+li {
+
+}
+
+/*Class*/
+.hello {
+
+}
+
+/*id*/
+#name {
+
+}
+
+/*Star - Selects everythin on the page*/
+* {
+
+}
+
+/*Descendant Selector - Selecting an element inside a particualr parent element*/
+li a {
+
+}
+
+li .hello {
+
+}
+
+/*Adjacent Selector - select everything after a particular element*/
+h4 + ul {
+
+}
+
+/*Attribute Selector - select elements based off of any attribute*/
+a[href="http://www.google.com"] {
+
+}
+
+/*nth of type - selects the nth of every group*/
+ul:nth-of-type(3) {
+
+}

@@ -1,0 +1,27 @@
+h1 {
+	color: red;
+	/*border-color: purple;
+	border-width: 5px;
+	border-style: solid;*/
+
+	border: 8px dashed rgb(255,100,80);
+}
+
+/*width
+color
+style*/
+
+li {
+	color: green;
+}
+
+h4 {
+	background: rgb(255,100,80);
+}
+
+body {
+	background: pink;
+	/*background: url(https://i.ytimg.com/vi/dEbhvHCZyfM/hqdefault.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;*/
+}
